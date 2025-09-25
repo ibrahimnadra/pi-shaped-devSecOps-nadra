@@ -1,3 +1,6 @@
 [submodule "Security_Compliance_workshop-nadra/day1"]
 	path = Security_Compliance_workshop-nadra/day1
 	url = https://github.com/ibrahimnadra/day1
+[submodule "Security_Compliance_workshop-nadra/day2"]
+	path = Security_Compliance_workshop-nadra/day2
+	url = https://github.com/ibrahimnadra/day2
